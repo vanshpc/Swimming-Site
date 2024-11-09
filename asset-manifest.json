@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Swimming-Site/static/css/main.e5ae8ea6.css",
+    "main.js": "/Swimming-Site/static/js/main.36ed920b.js",
+    "static/media/meal.mp4": "/Swimming-Site/static/media/meal.a12fd2e3c95226ced7c7.mp4",
+    "static/media/bg.png": "/Swimming-Site/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/chef.png": "/Swimming-Site/static/media/chef.d9018d896391c49cc9df.png",
+    "static/media/overlaybg.png": "/Swimming-Site/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/welcome.png": "/Swimming-Site/static/media/welcome.e4aba124cf7cc7b35fe4.png",
+    "static/media/findus.png": "/Swimming-Site/static/media/findus.f5473d5bf78eb9a32efd.png",
+    "static/media/menu.png": "/Swimming-Site/static/media/menu.f15de74e88e9036d1c94.png",
+    "static/media/knife.png": "/Swimming-Site/static/media/knife.03f81b6dcc1048dfb641.png",
+    "static/media/spoon.jpg": "/Swimming-Site/static/media/spoon.dd7f09a775f39fd1ce4e.jpg",
+    "static/media/G.png": "/Swimming-Site/static/media/G.7616a384586256c995c9.png",
+    "static/media/vansh.png": "/Swimming-Site/static/media/vansh.bbca523d1c20aa71ccc4.png",
+    "static/media/laurels.png": "/Swimming-Site/static/media/laurels.0f6e335fda82f200e266.png",
+    "static/media/gallery02.png": "/Swimming-Site/static/media/gallery02.a278fcb5abe4d6c717a6.png",
+    "static/media/gallery01.png": "/Swimming-Site/static/media/gallery01.5c8bd8df184e2d84e1ac.png",
+    "static/media/logo.png": "/Swimming-Site/static/media/logo.0286194c03de0a90dac9.png",
+    "static/media/award02.png": "/Swimming-Site/static/media/award02.8bbdd51499739653b003.png",
+    "static/media/gallery04.png": "/Swimming-Site/static/media/gallery04.872218bab366c519f36c.png",
+    "static/media/award05.png": "/Swimming-Site/static/media/award05.48a7f5206184009dcb29.png",
+    "static/media/award01.png": "/Swimming-Site/static/media/award01.361a4bc44b59b55abeda.png",
+    "static/media/gallery03.png": "/Swimming-Site/static/media/gallery03.c77a16fe84063feaf086.png",
+    "static/media/award03.png": "/Swimming-Site/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "static/media/sign.png": "/Swimming-Site/static/media/sign.9bf0bd90ad4caa17991f.png",
+    "index.html": "/Swimming-Site/index.html",
+    "main.e5ae8ea6.css.map": "/Swimming-Site/static/css/main.e5ae8ea6.css.map",
+    "main.36ed920b.js.map": "/Swimming-Site/static/js/main.36ed920b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5ae8ea6.css",
+    "static/js/main.36ed920b.js"
+  ]
+}
